@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "d1ef06e9588efa302bd7275c1f8ba609e38cb71d",
+  "iOS" : [
+    {
+      "name" : "PrebidMobile",
+      "hash" : "2a06ef3eebd0c7507c29697759cc8d25d0be0c2ac2fabcd3c8f780262ad1adac",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "PrebidMobile",
+      "hash" : "2a06ef3eebd0c7507c29697759cc8d25d0be0c2ac2fabcd3c8f780262ad1adac",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
